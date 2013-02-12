@@ -1,0 +1,11 @@
+BlockPlace:
+  randomness: 0.01
+
+BlockBreak:
+  randomness: 0.01
+  
+Chat:
+  randomness: 0.01
+
+Movement:
+  randomness: 0.01
