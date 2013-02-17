@@ -2,3 +2,7 @@ name: Discourager
 main: com.tomlowmc.discourager.Discourager
 version: 1.0
 author: GunfighterJ
+commands:
+  discourage:
+    description: Discourage stuff
+    usage: /<command> <player>
